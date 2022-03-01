@@ -1,1 +1,2 @@
-My first readme
+Alx:) 
+Grateful to be #doinghardthings
